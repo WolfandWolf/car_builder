@@ -1,0 +1,19 @@
+﻿  Menu.cpp
+C:\Users\Антон\Documents\BSUIR\3 sem\OOP\Lab_6\Lab_6\Menu.cpp(180,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Антон\Documents\BSUIR\3 sem\OOP\Lab_6\Lab_6\Menu.cpp(185,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Антон\Documents\BSUIR\3 sem\OOP\Lab_6\Lab_6\Menu.cpp(190,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Антон\Documents\BSUIR\3 sem\OOP\Lab_6\Lab_6\Menu.cpp(209,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Антон\Documents\BSUIR\3 sem\OOP\Lab_6\Lab_6\Menu.cpp(214,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Антон\Documents\BSUIR\3 sem\OOP\Lab_6\Lab_6\Menu.cpp(219,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Антон\Documents\BSUIR\3 sem\OOP\Lab_6\Lab_6\Menu.cpp(238,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Антон\Documents\BSUIR\3 sem\OOP\Lab_6\Lab_6\Menu.cpp(243,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Антон\Documents\BSUIR\3 sem\OOP\Lab_6\Lab_6\Menu.cpp(248,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Антон\Documents\BSUIR\3 sem\OOP\Lab_6\Lab_6\Menu.cpp(273,21): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+C:\Users\Антон\Documents\BSUIR\3 sem\OOP\Lab_6\Lab_6\Menu.cpp(288,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Антон\Documents\BSUIR\3 sem\OOP\Lab_6\Lab_6\Menu.cpp(293,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Антон\Documents\BSUIR\3 sem\OOP\Lab_6\Lab_6\Menu.cpp(312,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Антон\Documents\BSUIR\3 sem\OOP\Lab_6\Lab_6\Menu.cpp(317,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Антон\Documents\BSUIR\3 sem\OOP\Lab_6\Lab_6\Menu.cpp(336,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Антон\Documents\BSUIR\3 sem\OOP\Lab_6\Lab_6\Menu.cpp(341,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Антон\Documents\BSUIR\3 sem\OOP\Lab_6\Lab_6\Menu.cpp(366,21): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+  Lab_6.vcxproj -> C:\Users\Антон\Documents\BSUIR\3 sem\OOP\Lab_6\Debug\Lab_6.exe
